@@ -8,3 +8,5 @@ blah blah
 non ha funzionato
 
 # meglio provare con *done*
+
+# proviamo *resolve*
